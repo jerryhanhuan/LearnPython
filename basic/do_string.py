@@ -3,7 +3,7 @@
 
 # str -> bytes  bytes = str.encode
 # str -> bytes  bytes = str(str,'encoding')
-# bytes -> str  str = bytes.decode()
+# bytes -> str  str = bytes.diecode()
 # bytes -> str  str = str(bytes,'encoding')
 
 

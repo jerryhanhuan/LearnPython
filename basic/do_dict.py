@@ -41,4 +41,12 @@ else:
     print('%s'%(sname),'not in class')
 
 
+# 迭代 dict
+
+d3 = {'yudf':12,'yexb':13,'mohz':14} 
+
+for k,v in d3.items():
+    print('%s:%d'%(k,v))
+
+
 
