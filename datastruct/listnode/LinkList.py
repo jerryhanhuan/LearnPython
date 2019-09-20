@@ -29,7 +29,8 @@ for i in range(2,10):
 
 #遍历链表
 p = n1
-while p is not None:
+#while p is not None:
+while p:
     print("%d "%(p.element))
     p = p.next
 
